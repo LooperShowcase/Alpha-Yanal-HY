@@ -1,0 +1,35 @@
+body {
+  background-color: #dc052d;
+}
+table {
+  color: white;
+}
+tr,
+td,
+th {
+  width: 40%;
+}
+h1 {
+  color: #0066b2;
+}
+p,
+ul,
+h3 {
+  color: #0066b2;
+  font-weight: bold;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 130;
+}
+li {
+  list-style: none;
+}
+.hor {
+  float: left;
+}
+#kber {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
